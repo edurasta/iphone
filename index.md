@@ -6,10 +6,8 @@
   </head>
   <body>
   
-  <script type="text/javascript">
-    var CPABUILDSETTINGS={"it":803777,"key":"f6c42"};
-</script>
-<script src="https://cpabuild.com/public/external/locker.js"></script>
-  
+  <script type="text/javascript" id="ogjs" src="https://www.locked4.com/contentlockers/load.php?id=07275d8a6ac407ed7cc49f7b49cbff12"></script>
+
+
   </body>
 </html>
